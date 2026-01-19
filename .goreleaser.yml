@@ -1,8 +1,8 @@
 version: 2
-project_name: supabase
+project_name: udaykumar939845
 builds:
-  - id: supabase
-    binary: supabase
+  - id: udaykumar939845
+    binary: udaykumar939845
     flags:
       - -trimpath
     ldflags:
@@ -34,10 +34,10 @@ changelog:
     - title: Others
       order: 999
 nfpms:
-  - vendor: Supabase
-    description: Supabase CLI
-    maintainer: Supabase CLI
-    homepage: https://supabase.com
+  - vendor: udaykumar939845
+    description: Udaykumar939845 CLI
+    maintainer: udaykumar939845 CLI
+    homepage: https://github.com/udaykumar939845/cli
     license: MIT
     formats:
       - apk

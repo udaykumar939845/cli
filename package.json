@@ -1,12 +1,12 @@
 {
-  "name": "supabase",
-  "version": "0.0.0-automated",
-  "description": "Supabase CLI",
-  "repository": "supabase/cli",
-  "homepage": "https://supabase.com/docs/reference/cli",
-  "bugs": "https://github.com/supabase/cli/issues",
+  "name": "udaykumar939845",
+  "version": "1.0.0",
+  "description": "Udaykumar939845 CLI",
+  "repository": "udaykumar939845/cli",
+  "homepage": "https://github.com/udaykumar939845/cli",
+  "bugs": "https://github.com/udaykumar939845/cli/issues",
   "license": "MIT",
-  "author": "Supabase",
+  "author": "udaykumar939845",
   "type": "module",
   "engines": {
     "npm": ">=8"
@@ -18,7 +18,7 @@
     "postinstall": "node scripts/postinstall.js"
   },
   "bin": {
-    "supabase": "bin/supabase"
+    "udaykumar939845": "bin/udaykumar939845"
   },
   "dependencies": {
     "bin-links": "^6.0.0",

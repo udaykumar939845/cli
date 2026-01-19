@@ -26,6 +26,7 @@
 # NPM
 node_modules
 package-lock.json
+bin/
 
 # Initialized by cli for local testing
 /supabase
