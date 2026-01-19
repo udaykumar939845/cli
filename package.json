@@ -2,7 +2,10 @@
   "name": "udaykumar939845",
   "version": "1.0.0",
   "description": "Udaykumar939845 CLI",
-  "repository": "udaykumar939845/cli",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udaykumar939845/cli.git"
+  },
   "homepage": "https://github.com/udaykumar939845/cli",
   "bugs": "https://github.com/udaykumar939845/cli/issues",
   "license": "MIT",
